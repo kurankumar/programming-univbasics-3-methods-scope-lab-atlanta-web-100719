@@ -10,8 +10,8 @@ end
 
 def link 
   phrase "It's Dangerous To Go Alone! Take This."
-  puts phrase
-  "It's Dangerous To Go Alone! Take This. "
+  p phrase
+  
 end
 
 def any_phrase(phrase)
